@@ -3,3 +3,5 @@ FSharp.Data.GraphQL.Server
 Newtonsoft.Json
 Microsoft.AspNetCore.Http
 Microsoft.AspNetCore.WebSockets
+System.Reactive.Linq
+System.Reactive.Interfaces

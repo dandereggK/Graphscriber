@@ -1,5 +1,5 @@
 source https://api.nuget.org/v3/index.json
-framework: netcoreapp2.1
+framework: netcoreapp2.2
 
 nuget FSharp.Core
 nuget FSharp.Data.GraphQL.Server beta
@@ -12,6 +12,8 @@ nuget Microsoft.AspNetCore.TestHost
 nuget Microsoft.AspNetCore.App
 nuget Giraffe
 nuget System.Reactive >= 4.1.5
+nuget System.Reactive.Linq
+nuget System.Reactive.Interfaces
 
 group Build
     source https://api.nuget.org/v3/index.json
